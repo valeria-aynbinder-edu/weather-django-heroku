@@ -25,7 +25,7 @@ SECRET_KEY = 'kbc#eyob4n!pfpy81ppy9nihxum1$pn9v@pyv48ji6mt+5id5*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['weather-django-valeria.herokuapp.com']
 
 
 # Application definition
